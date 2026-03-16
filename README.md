@@ -8,7 +8,5 @@
 | Hades        | Log & Metric         |
 | DeepTraLog   | Log & trace          |
 | Eadro        | Log & Metric & trace |
-| DiagFusion   | Log & Metric & trace |
-| PLELog       | Log                  |
-| SCWarn       | Log & Metric         |
-| USAD         | Metric               |
+| UniDiag      | Log & Metric & trace |
+| MSTGAD       | Log & Metric & trace |
